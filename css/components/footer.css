@@ -1,0 +1,15 @@
+.fab {
+  color: #71de8a;
+  font-size: 30px;
+  padding: 10px;
+}
+
+.footer p {
+  color: grey;
+}
+
+.footer {
+  background-color: #2C2B2B;
+  padding: 60px;
+  text-align: center;
+}

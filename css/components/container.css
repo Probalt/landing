@@ -1,0 +1,25 @@
+.container {
+  text-align: left;
+  padding: 0px 200px;
+  margin-bottom: 30px;
+}
+
+.container h2 {
+  text-align: center;
+}
+
+.container h3 {
+  text-align: center;
+}
+
+.container img {
+  position: center;
+  width: 150px;
+  height: 150px;
+}
+
+.container .flexed {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
